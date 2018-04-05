@@ -1,2 +1,2 @@
 # fake-json-server
-Just a repository to link to https://my-json-server.typicode.com/
+Just a repository to link to https://my-json-server.typicode.com/douglasquintanilha/fake-json-server
